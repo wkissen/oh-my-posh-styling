@@ -45,7 +45,7 @@ notepad $PROFILE
 4. Add the following line to load your custom theme (adjust the path to where you cloned this repo):
 
 ```powershell
-oh-my-posh init pwsh --config "C:\path\to\your\theme.omp.json" | Invoke-Expression
+oh-my-posh init pwsh --config "C:\path\to\your\theme.json" | Invoke-Expression
 ```
 
 5. Save the file and restart your terminal.
